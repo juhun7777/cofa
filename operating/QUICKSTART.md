@@ -137,8 +137,8 @@ STATE·T2·T3의 관련 기록과 실제 코드를 읽어 줘.
 
 독립 세션이 자동으로 메시지·파일 변경을 읽는 것은 아니다. 중요한 변경 때 사용자가 짧게 전달한다. 한시 독립 검사가 필요하면 구체 범위를 배정하되 모든 검증·수정을 T1 또는 T2로 몰지 않는다.
 
-## 8. 스킬과 사용 범위
+## 8. Markdown 지침과 사용 범위
 
-이 파일들은 일반 Markdown 역할 지침이다. 읽으라는 프롬프트로 사용하며 스킬 등록이나 외부 플러그인이 필수는 아니다. scope·build·verify·debug는 필요한 때만 선택한다. AGENTS.template.md는 자동 AGENTS.md와 다르며 기존 시험 지침을 덮어쓰지 않는다.
+준비 지침은 operating/ 안에 모두 있다. COMMON.md와 담당 역할 파일을 실제로 읽으라는 프롬프트로 사용한다. 별도 등록·설치나 새 AGENTS.md 생성은 필요 없다. 기존 시험 지침을 덮어쓰지 않는다. ZIP에는 README와 operating/만 포함된다.
 
 실제 도구·자료 반입·외부 전송·후속 단계 규칙을 따른다. AI 금지 단계에서는 설명·파일 읽기도 중단한다. 공식 참고: https://learn.chatgpt.com/docs/agent-configuration/agents-md 및 https://learn.chatgpt.com/docs/agent-configuration/subagents
