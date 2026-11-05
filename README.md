@@ -6,7 +6,7 @@
 
 - [시험 당일 시작: 내려받기·터미널·역할 프롬프트·상세 실행 시뮬레이션](operating/QUICKSTART.md)
 - [현재 운영 문서 ZIP](cofa-operating-kit.zip): 이 README와 operating/만 포함합니다.
-- [공통 원칙](operating/COMMON.md), [운영안 선택](operating/MODES.md), [실무자 질문](operating/QUESTIONS.md)
+- [공통 원칙](operating/COMMON.md), [4세션 운영안](operating/MODES.md), [실무자 질문](operating/QUESTIONS.md)
 
 | 역할 | 지침 |
 | --- | --- |
@@ -15,7 +15,7 @@
 | T3 — 독립 구현 B·담당 검증·수정 | [T3.md](operating/roles/T3.md) |
 | T4 — 실제 구현의 위치·원리·선택 이유 설명 | [T4.md](operating/roles/T4.md) |
 
-기록의 빈 양식은 operating/templates/에 있습니다. 기록 폴더가 허용되면 T1이 프로젝트 루트의 _work/STATE.md를 없을 때 생성·갱신하고, 다른 세션도 각자 자기 기록을 생성·관리합니다. 원본 README와 데이터 설명은 덮어쓰지 않습니다. 작업량에 따라 설명을 T1이 겸하거나 작은 과제의 구현자를 줄일 수 있습니다. 불필요한 세션·문서를 강제하지 않습니다.
+기록의 빈 양식은 operating/templates/에 있습니다. 기록 폴더가 허용되면 T1이 프로젝트 루트의 _work/STATE.md를 없을 때 생성·갱신하고, 다른 세션도 각자 자기 기록을 생성·관리합니다. 원본 README와 데이터 설명은 덮어쓰지 않습니다. 역할은 T1~T4로 고정하고 시작 시점은 단계별로 나눕니다. T3에 독립 구현이 없으면 검증을 맡기고 T4는 첫 실제 결과부터 설명합니다. 불필요한 기능·문서는 만들지 않습니다.
 
 ## 받는 방법
 
